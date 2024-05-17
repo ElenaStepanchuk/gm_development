@@ -1,2 +1,3 @@
-# gm_development
-Test task for G-M_Development
+Task test
+
+Enter command "npm run dev" in terminal for start app
