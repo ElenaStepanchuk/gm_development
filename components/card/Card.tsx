@@ -22,7 +22,6 @@ const Card = () => {
               >
                 <use xlinkHref={`/sprite/sprite.svg#${icon}`} />
               </svg>
-              {/* <Image className={css.icon} src={icon} alt="Описание изображения" /> */}
               <h1 className={css.card_title}>{title}</h1>
               <ul className={css.card_list}>
                 {list.map((elem, i) => {
