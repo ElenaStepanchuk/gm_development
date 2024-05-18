@@ -1,7 +1,5 @@
-import Image from "next/image";
 import css from "./card.module.css";
 import CardsContent from "../cardsContent/CardsContent";
-import svg from "../../public/sprite/sprite.svg";
 
 const Card = () => {
   return (
